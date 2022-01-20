@@ -5681,6 +5681,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 		display: none;
 	}
 }
+.about-us-title{
+	background: url(../images/about_us.jpg) center;
+	background-size: cover;
+	width: 100%;
+	height: 700px;
+}
+.contact-us-title{
+	background: url(../images/desktop_banners_contact-us.png) center;
+	background-size: cover;
+	width: 100%;
+	height: 700px;
+}
 .about-generic-area {
 	background: #fff;
 }
