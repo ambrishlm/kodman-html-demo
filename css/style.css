@@ -6116,6 +6116,10 @@ h6 {
 	outline: none;
 }
 
+.nav-menu a:hover {
+	color: #b68834;
+}
+
 .nav-menu>li {
 	margin-left: 10px;
 }
