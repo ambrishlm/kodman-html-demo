@@ -246,12 +246,12 @@ table {
 	content: "\f178";
 }
 
-.fa-dribbble:before {
-	content: "\f17d";
+.fa-youtube:before {
+	content: "\f167";
 }
 
-.fa-behance:before {
-	content: "\f1b4";
+.fa-instagram:before {
+	content: "\f16d";
 }
 
 @media print {
@@ -6576,14 +6576,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area {
-	color: #fff;
-	padding-top: 220px;
-	background: url(../images/footer-bg.jpg) center;
-	background-size: cover;
+	color: #222;
+	background: linear-gradient(180deg, #140200cc, #0000);
+	padding: 60px 0;
 }
 
 .footer-area h6 {
-	color: #fff;
 	margin-bottom: 25px;
 	font-size: 18px;
 	font-weight: 600;
@@ -6602,7 +6600,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-social i {
-	color: #ccc;
+	color: #222;
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
